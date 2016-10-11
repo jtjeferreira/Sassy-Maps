@@ -1,4 +1,4 @@
 module SassyMaps
-  VERSION = "0.4.0"
-  DATE = "2014-06-03"
+  VERSION = "0.4.1"
+  DATE = "2016-10-10"
 end
